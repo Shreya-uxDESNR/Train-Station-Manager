@@ -12,4 +12,5 @@ Download 'DSA_Game_Train_Station_Manager.exe' from the repository and run it on 
 
 ## Download & Play
 [Download the Windows Game(.exe)](./DSA_Game_Train_Station_Manager.exe)
-**Note:** The game can be played on a Windows computer.
+**Note:** Since this is a newly compiled executable, Microsoft Edge/Windows SmartScreen may display a security warning. This is a standard reputation warning for newly downloaded `.exe` files.
+If the `.exe` cannot be downloaded or opened, the C++ source code is available in this repository and can be compiled and run using a C++ compiler.
