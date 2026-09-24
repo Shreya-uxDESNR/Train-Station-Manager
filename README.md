@@ -9,3 +9,7 @@ Download 'DSA_Game_Train_Station_Manager.exe' from the repository and run it on 
 - 'DSA_Game_Train_Station_Manager.cpp'
 - **Playable Game:**
 - 'DSA_Game_Train_Station_Manager.exe'
+
+## Download & Play
+[Download the Windows Game(.exe)](./DSA_Game_Train_Station_Manager.exe)
+**Note:** The game can be played on a Windows computer.
